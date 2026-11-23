@@ -1,0 +1,11 @@
+{
+  "appId": "com.umur.tuvaletoyunlari",
+  "appName": "Tuvalet Oyunları",
+  "webDir": "www",
+  "bundledWebRuntime": false,
+  "plugins": {
+    "AdMob": {
+      "appId": "ca-app-pub-8313181831885508~8594303630"
+    }
+  }
+}

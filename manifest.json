@@ -1,0 +1,17 @@
+{
+  "name": "Tuvalet Oyunları - Premium Mini Arcade",
+  "short_name": "Tuvalet Oyunları",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#f7f3eb",
+  "theme_color": "#b85d33",
+  "icons": [
+    {
+      "src": "https://cdn-icons-png.flaticon.com/512/3132/3132693.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
